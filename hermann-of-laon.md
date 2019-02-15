@@ -1,4 +1,7 @@
-# Hermann of Laon's Account of Belief in Arthur: Medieval Belief (and Disbelief) in the Historicity of King Arthur
+---
+layout: page
+title: Hermann of Laon's Account of Belief in Arthur: Medieval Belief (and Disbelief) in the Historicity of King Arthur
+---
 
 Hermann of Laon writing in first half of the 12th century includes a brief account of a conflict that erupted over the belief that King Arthur was still alive. The account is found in the Latin work *De miraculis beatae Mariae Laudunensis* (*Concerning the Miracles of the Blessed Mary of Laon*), which recounts the events and miracles that accompanied a tour of Laon's collection of Mary's relics through the continent and England. The Latin text has been taken from *Patrologia Latina* Vol. 156, p. 983 https://books.google.com/books?id=AfUUAAAAQAAJ&pg=PT387#v=onepage&q&f=false
 
