@@ -1,5 +1,4 @@
 ---
-layout: page
 title: Hermann of Laon's Account of Belief in Arthur: Medieval Belief (and Disbelief) in the Historicity of King Arthur
 ---
 
