@@ -1,7 +1,7 @@
 theme: minima
 domain: scriptamediiaevi.github.io
----
 title: Scripta Medii Aevi
----
+theme: minima
+
 header_pages:
  - index.md
