@@ -11,7 +11,7 @@ title: Texts
 [*Long Charter Version A*](https://scriptamediiaevi.github.io/long-charter-a)
 
 ### Latin
-[Hermann of Laon's Account of Belief in Arthur](https://scriptamediiaevi.github.io/hermann-of-laon.md)  
+[Hermann of Laon's Account of Belief in Arthur](https://scriptamediiaevi.github.io/hermann-of-laon)  
 [*Scala Claustralium*](https://scriptamediiaevi.github.io/scala-claustralium)
 
 
