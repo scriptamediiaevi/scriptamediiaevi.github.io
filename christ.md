@@ -1,4 +1,8 @@
-# Christ I, II, III  
+---
+layout: page
+title: *Christ I, II, III*
+---
+
 ## [Christ I](#christ-i)
 cyninge.  
 ðu eart se weallstan         þe ða wyrhtan iu  
